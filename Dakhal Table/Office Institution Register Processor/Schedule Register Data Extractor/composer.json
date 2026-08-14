@@ -1,0 +1,15 @@
+{
+    "name": "saurabh/court-helper",
+    "authors": [
+        {
+            "name": "saurabh-salokhe-work",
+            "email": "saurabh.salokhe.work@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.11",
+        "phpoffice/phpspreadsheet": "^4.5",
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^2.6"
+    }
+}
